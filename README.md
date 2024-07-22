@@ -1,2 +1,2 @@
 # Low-Level-Chat-Messaging-Application-and-YouTube
-Created a low level group messaging application with a command line interface using ZeroMQ, and a YouTube-like application using RabbitMQ.
+Created a low level group messaging application with a command line interface using ZeroMQ for communication between individual users, the group servers, and a central messaging server interacting with each other in real time running on sepearate google VMs/Cloud instances. Also developed a YouTube-like application with YouTuber, User, and YouTubeServer components for video uploads, user subscriptions, and real-time notifications. Implemented scalable message handling and data transfer using RabbitMQ.
